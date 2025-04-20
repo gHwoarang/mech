@@ -1,0 +1,1 @@
+function  M = identity3D (M)%  Returns a 3D identity matrix.M = eye (4);
